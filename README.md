@@ -4,6 +4,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
+* [Users](#users)
 * [Test](#test)
 <!-- * [License](#license) -->
 ## General Information
@@ -64,7 +65,12 @@ No se requiere conexión con base de datos; el repositorio de datos puede ser un
 ## Setup
 1. clone this repository https://github.com/matutev/ecomm-app.git
 2. run composer install in main project folder
-3. open "localhost/ecomm-app" in your favorite browser 
+3. open "localhost/ecomm-app" in your favorite browser
+
+## Users
+In the login you can enter the following users:
+1. user: admin pass:123
+2. user: user  pass: asd
 
 ## Test
 Here are the test that are going to run when you execute the PHPunit command:
