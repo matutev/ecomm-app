@@ -1,0 +1,16 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main>.container {
+    padding: 20px 30px 0;
+}
+
+#dialog{
+    display: none;
+}
+
+.error-input{
+    border:2px solid red;
+    color: red;
+}

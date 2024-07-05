@@ -1,0 +1,13 @@
+{"0":
+    {"id":1,
+    "user":"admin",
+    "pass":"$2y$10$kogTxqo7ia2Tn1dIYPPMUubBivhhOHhKMD6PoO8DCnilEKvkJREzm",
+    "role":"admin"
+    },
+"1":  
+    {"id":2,
+    "user":"user",
+    "pass":"$2y$10$qRqicsTgILrAgS858X.DmuiXFDXVpNdyLTIDduDLWukvDrj5GzdaG",
+    "role":"user"
+    }
+}
