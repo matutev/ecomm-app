@@ -13,7 +13,7 @@ class Utility
      */
     public static function validateSpecialChars(array $params): bool
     {   
-        $specialChars = '!@#$%^&*()_=+[{]};:\'",<.>?\\|';
+        $specialChars = '!@#$%^&*()_=+[{]};:\'",<>?\\|';
 
         foreach($params as $param){
             if(strpbrk($param, $specialChars) !== false){
